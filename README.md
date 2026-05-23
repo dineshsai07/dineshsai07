@@ -61,63 +61,44 @@ I design and operate platforms that **just work** — quietly, reliably, and at 
 
 <div align="center">
 
-**☁️   Cloud**
-
-<img src="https://skillicons.dev/icons?i=aws,azure&theme=dark" alt="cloud" />
-
-**🐳   Containers & Orchestration**
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" alt="containers" />
-<img src="https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazoneks&logoColor=white" />
-<img src="https://img.shields.io/badge/AKS-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-<img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" />
-
-**🏗️   IaC & Automation**
-
-<img src="https://skillicons.dev/icons?i=terraform,ansible&theme=dark" alt="iac" />
-<img src="https://img.shields.io/badge/AWS_CDK-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Pulumi-8A3391?style=for-the-badge&logo=pulumi&logoColor=white" />
-
-**🔄   CI/CD**
-
-<img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab&theme=dark" alt="cicd" />
-<img src="https://img.shields.io/badge/Argo_CD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" />
-<img src="https://img.shields.io/badge/Kustomize-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-
-**📊   Monitoring & Observability**
-
-<img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" alt="obs" />
-<img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" />
-<img src="https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white" />
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
-<img src="https://img.shields.io/badge/New_Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white" />
-
-**🔒   Security**
-
-<img src="https://skillicons.dev/icons?i=vault,sonarqube&theme=dark" alt="sec" />
-<img src="https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aquasecurity&logoColor=white" />
-<img src="https://img.shields.io/badge/Snyk-4C4A73?style=for-the-badge&logo=snyk&logoColor=white" />
-<img src="https://img.shields.io/badge/Prisma_Cloud-2D72D9?style=for-the-badge&logo=paloaltonetworks&logoColor=white" />
-<img src="https://img.shields.io/badge/Veracode-00B4AD?style=for-the-badge&logo=veracode&logoColor=white" />
-
-**💻   Languages**
-
-<img src="https://skillicons.dev/icons?i=python,bash,powershell&theme=dark" alt="lang" />
-
-**🗄️   Databases**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,elasticsearch&theme=dark" alt="db" />
-
-**🧰   Tools**
-
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Nexus-1B1C30?style=for-the-badge&logo=sonatype&logoColor=white" />
-<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white" />
-<img src="https://img.shields.io/badge/Opsgenie-2684FF?style=for-the-badge&logo=opsgenie&logoColor=white" />
-<img src="https://img.shields.io/badge/ServiceNow-00C487?style=for-the-badge&logo=servicenow&logoColor=white" />
+<table>
+<tr>
+<td align="center" width="160"><b>☁️ Cloud</b></td>
+<td><img src="https://skillicons.dev/icons?i=aws,azure&theme=dark" alt="cloud"/></td>
+</tr>
+<tr>
+<td align="center"><b>🐳 Containers</b></td>
+<td><img src="https://skillicons.dev/icons?i=docker,kubernetes&theme=dark" alt="containers"/> &nbsp; <i>EKS, AKS, Helm, OpenShift</i></td>
+</tr>
+<tr>
+<td align="center"><b>🏗️ IaC</b></td>
+<td><img src="https://skillicons.dev/icons?i=terraform,ansible&theme=dark" alt="iac"/> &nbsp; <i>AWS CDK, CloudFormation, Pulumi</i></td>
+</tr>
+<tr>
+<td align="center"><b>🔄 CI/CD</b></td>
+<td><img src="https://skillicons.dev/icons?i=jenkins,githubactions,gitlab&theme=dark" alt="cicd"/> &nbsp; <i>Argo CD, Kustomize</i></td>
+</tr>
+<tr>
+<td align="center"><b>📊 Observability</b></td>
+<td><img src="https://skillicons.dev/icons?i=prometheus,grafana&theme=dark" alt="obs"/> &nbsp; <i>Datadog, CloudWatch, Splunk, New Relic</i></td>
+</tr>
+<tr>
+<td align="center"><b>🔒 Security</b></td>
+<td><img src="https://skillicons.dev/icons?i=vault,sonarqube&theme=dark" alt="sec"/> &nbsp; <i>Trivy, Snyk, Prisma Cloud, Veracode</i></td>
+</tr>
+<tr>
+<td align="center"><b>💻 Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=python,bash,powershell&theme=dark" alt="lang"/></td>
+</tr>
+<tr>
+<td align="center"><b>🗄️ Databases</b></td>
+<td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,elasticsearch&theme=dark" alt="db"/></td>
+</tr>
+<tr>
+<td align="center"><b>🧰 Tools</b></td>
+<td><i>Apache Airflow, Nexus, Jira, Confluence, Opsgenie, ServiceNow</i></td>
+</tr>
+</table>
 
 </div>
 
@@ -136,10 +117,6 @@ I design and operate platforms that **just work** — quietly, reliably, and at 
 
 </div>
 
-### 📈 Contribution Graph
-
-<a href="https://github.com/dineshsai07"><img src="https://github-readme-activity-graph.vercel.app/graph?username=dineshsai07&bg_color=0D1117&color=58A6FF&line=F778BA&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph"/></a>
-
 <br/>
 
 ## ╭─ trophies
@@ -152,30 +129,146 @@ I design and operate platforms that **just work** — quietly, reliably, and at 
 
 <br/>
 
-## ╭─ featured projects
+## ╭─ projects
 
-<table>
-<tr>
-<td width="33%" valign="top">
-<h3 align="center">🛡️ MicroGuard</h3>
-<p align="center"><i>Monitoring Platform</i></p>
-<p>Modern observability platform for microservices — real-time metrics, distributed tracing, and intelligent alerting at scale.</p>
-<p align="center"><a href="https://microguard.dineshsai.com"><img src="https://img.shields.io/badge/Live%20Demo-58A6FF?style=for-the-badge&logo=vercel&logoColor=white"/></a></p>
-</td>
-<td width="33%" valign="top">
-<h3 align="center">☁️ Multi-Cloud IaC</h3>
-<p align="center"><i>Infrastructure Automation</i></p>
-<p>Production-grade Terraform + Pulumi modules to provision and govern workloads across AWS and Azure with policy-as-code.</p>
-<p align="center"><img src="https://img.shields.io/badge/Internal-6e7681?style=for-the-badge"/></p>
-</td>
-<td width="33%" valign="top">
-<h3 align="center">⚙️ K8s Platform</h3>
-<p align="center"><i>Enterprise Kubernetes</i></p>
-<p>Batteries-included internal Kubernetes platform with Argo CD GitOps, service mesh, autoscaling, and self-service onboarding.</p>
-<p align="center"><img src="https://img.shields.io/badge/Internal-6e7681?style=for-the-badge"/></p>
-</td>
-</tr>
-</table>
+A walkthrough of the work behind these repositories — from production platforms to learning labs.
+
+### 🛡️ MicroGuard — Monitoring Platform
+> *Real-time observability for microservices at scale.* &nbsp; 🔗 [microguard.dineshsai.com](https://microguard.dineshsai.com)
+
+MicroGuard is a modern observability platform purpose-built for distributed microservice fleets. It ingests metrics, logs, and traces, correlates them through a service graph, and surfaces intelligent alerts with anomaly detection. Built on a Go backend with a React/Next.js dashboard, the platform runs natively on Kubernetes and integrates with Prometheus, OpenTelemetry, and PagerDuty/Opsgenie out of the box.
+
+<img src="https://skillicons.dev/icons?i=go,kubernetes,prometheus,grafana,nextjs,docker&theme=dark" alt="microguard stack"/>
+
+---
+
+### ☁️ CloudLens — Sustainable Cloud Cost Optimizer
+> *Open-source FinOps & GreenOps platform for the DevOps community.*
+
+CloudLens proactively analyzes cloud usage across AWS and Azure to surface idle resources, rightsizing opportunities, and carbon-aware scheduling recommendations. Designed as a community-driven project, it combines Python-based collectors, a rules engine for cost guardrails, and dashboards that translate spend into both dollars and CO₂ impact — making sustainable cloud practices the default, not an afterthought.
+
+<img src="https://skillicons.dev/icons?i=python,aws,azure,kubernetes,docker&theme=dark" alt="cloudlens stack"/>
+
+---
+
+### 🧠 Dinesh Sai Digital Twin
+> *A personal AI agent that thinks and responds like me.*
+
+A personal project building a "digital twin" — an LLM-powered agent fine-tuned and grounded on my own writing, decisions, and engineering style. It explores retrieval-augmented generation, memory, and persona modeling so the assistant can answer technical questions, draft messages, and reason about projects in a voice that is unmistakably mine.
+
+<img src="https://skillicons.dev/icons?i=python,docker&theme=dark" alt="twin stack"/>
+
+---
+
+### 🔄 DevOps GitOps Lab &nbsp;[▸](https://github.com/dineshsai07/devops-gitops-lab)
+> *End-to-end GitOps reference architecture.*
+
+A hands-on lab demonstrating a full GitOps lifecycle — microservices packaged with Helm charts, infrastructure provisioned through Terraform (HCL), and progressive delivery driven from a single Git repository. Useful as a teaching template for teams adopting Argo CD / Flux, environment promotion, and declarative cluster management.
+
+<img src="https://skillicons.dev/icons?i=kubernetes,terraform,docker,python&theme=dark" alt="gitops stack"/>
+
+---
+
+### ☕ Kubernetes Java App &nbsp;[▸](https://github.com/dineshsai07/kubernetes-java)
+> *Spring Boot → Docker → Jenkins → Kubernetes.*
+
+A reference Java microservice showing the full container-to-cluster journey. Includes a Maven-built Spring Boot app, a multi-stage Dockerfile, a Jenkinsfile for CI, and Kubernetes manifests with namespace isolation and deployment definitions — perfect for engineers learning how Java workloads ship to Kubernetes in a real pipeline.
+
+<img src="https://skillicons.dev/icons?i=java,docker,kubernetes,jenkins&theme=dark" alt="k8s java stack"/>
+
+---
+
+### 🔨 Jenkins + Kubernetes Pipeline &nbsp;[▸](https://github.com/dineshsai07/jenkins-kubernetes)
+> *Spring Boot + MongoDB CI/CD on Kubernetes.*
+
+Demonstrates building a Spring Boot application with Maven, packaging it via Docker, and orchestrating local runs through Docker Compose before deploying onto Kubernetes. A practical companion repo for Jenkins-driven CI/CD workflows targeting containerized JVM applications.
+
+<img src="https://skillicons.dev/icons?i=java,docker,kubernetes,jenkins,mongodb&theme=dark" alt="jenkins k8s stack"/>
+
+---
+
+### 🌩️ Terraform-Azure &nbsp;[▸](https://github.com/dineshsai07/Terraform-Azure)
+> *Infrastructure as Code on Microsoft Azure.*
+
+A Terraform workspace dedicated to provisioning Azure infrastructure — resource groups, networking, compute, and managed services — using a clean, modular HCL layout. Acts as a starting point for spinning up reproducible Azure environments with version-controlled state.
+
+<img src="https://skillicons.dev/icons?i=terraform,azure&theme=dark" alt="terraform azure stack"/>
+
+---
+
+### 📐 Terraform &nbsp;[▸](https://github.com/dineshsai07/Terraform)
+> *Reusable Terraform modules & patterns.*
+
+A general-purpose Terraform repository containing reusable HCL modules, examples, and infrastructure patterns I commonly reach for — a personal library that has slowly grown into a multi-cloud reference for VPCs, IAM, compute, and networking primitives.
+
+<img src="https://skillicons.dev/icons?i=terraform,aws,azure&theme=dark" alt="terraform stack"/>
+
+---
+
+### 🐍 Application &nbsp;[▸](https://github.com/dineshsai07/application)
+> *Python app with CircleCI continuous integration.*
+
+A minimal Python application wired up with CircleCI to demonstrate a clean CI workflow — test runners, dependency management via `requirements.txt`, and packaging via `setup.py`. Designed as a tiny but complete blueprint for "what good CI on a Python service looks like."
+
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="python ci stack"/>
+
+---
+
+### 📘 Python for DevOps &nbsp;[▸](https://github.com/dineshsai07/python-for-devops)
+> *Python, but through a DevOps lens.* (forked from iam-veeramalla)
+
+A curated learning fork that approaches Python from a DevOps engineer's point of view — scripting, automation, AWS SDK usage, and infrastructure tooling. Useful as a study companion when leveling up Python skills for cloud and platform work.
+
+<img src="https://skillicons.dev/icons?i=python,aws&theme=dark" alt="python devops stack"/>
+
+---
+
+### 📦 DevOps-Projects &nbsp;[▸](https://github.com/dineshsai07/DevOps-Projects)
+> *A grab-bag of DevOps experiments & POCs.*
+
+A collection space for smaller DevOps projects, experiments, and proofs-of-concept — the place where ideas get sandboxed before they graduate into proper repositories.
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform&theme=dark" alt="devops stack"/>
+
+---
+
+### 🤖 chatbot-ui &nbsp;[▸](https://github.com/dineshsai07/chatbot-ui)
+> *Open-source AI chat UI.* (forked from Aj7Ay)
+
+A TypeScript-based fork of the open-source ChatGPT UI — used as a playground for experimenting with prompt engineering, LLM integrations, and frontend deployment workflows.
+
+<img src="https://skillicons.dev/icons?i=typescript,nextjs,react&theme=dark" alt="chatbot stack"/>
+
+---
+
+### 🧞‍♂️ Genie Website (Java + Docker) &nbsp;[▸](https://github.com/dineshsai07/genie-website-java-docker)
+> *Containerized Java web app.* (forked from dockersamples)
+
+A Docker Samples fork used to demonstrate containerizing a Java/HTML website — a simple but effective example for teaching Dockerfile structure, image building, and running JVM apps in containers.
+
+<img src="https://skillicons.dev/icons?i=java,docker&theme=dark" alt="genie stack"/>
+
+---
+
+### 🚀 AWS App Runner (Node.js) &nbsp;[▸](https://github.com/dineshsai07/app-runner-nodejs)
+> *Next.js on AWS App Runner with DynamoDB.* (forked from aws-containers)
+
+An AWS sample showing how to deploy a Next.js application to AWS App Runner backed by DynamoDB, orchestrated via the Copilot CLI — a great quick-start for full-stack serverless container deployments on AWS.
+
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs,aws&theme=dark" alt="app runner stack"/>
+
+---
+
+### 🔁 AWS CodePipeline + S3 + CodeDeploy &nbsp;[▸](https://github.com/dineshsai07/aws-codepipeline-s3-codedeploy-linux)
+> *Sample CodePipeline walkthrough.* (forked from aws-samples)
+
+An AWS Samples fork used while walking through the "Simple Pipeline" tutorial — building an end-to-end pipeline with CodePipeline, S3 as the source, and CodeDeploy targeting Linux instances. A clean reference for AWS-native CI/CD fundamentals.
+
+<img src="https://skillicons.dev/icons?i=aws&theme=dark" alt="codepipeline stack"/>
+
+---
+
+<sub>🔒 <i>Several additional repositories (MicroGuard, CloudLens, dineshsai-portfolio, exercise-assistant, dineshsai-digital-twin, pci-india-lz, aws-eks, aws-devops, ml-ops-project, and more) live in private — reach out if you'd like a deeper walkthrough.</i></sub>
 
 <br/>
 
@@ -185,10 +278,17 @@ I design and operate platforms that **just work** — quietly, reliably, and at 
 
 If you're into **DevOps, Platform Engineering, Kubernetes,** or **Cloud-Native** — let's build something.
 
-<a href="https://www.linkedin.com/in/dineshsai07"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://dineshsai.com"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
-<a href="mailto:dineshsaidevops@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://instagram.com/dinesh_sai_n"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/dineshsai07"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="linkedin"/></a>
+<a href="https://dineshsai.com"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="portfolio"/></a>
+<a href="mailto:dineshsaidevops@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="email"/></a>
+<a href="https://instagram.com/dinesh_sai_n"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="instagram"/></a>
+
+<sub>
+<a href="https://www.linkedin.com/in/dineshsai07">LinkedIn</a> •
+<a href="https://dineshsai.com">Portfolio</a> •
+<a href="mailto:dineshsaidevops@gmail.com">Email</a> •
+<a href="https://instagram.com/dinesh_sai_n">Instagram</a>
+</sub>
 
 </div>
 
